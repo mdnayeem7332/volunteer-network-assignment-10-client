@@ -1,0 +1,16 @@
+.event-registration{
+    text-align: center;
+    margin-top: 45px;
+}
+.form-logo{
+    width: 200px;
+    height: 62px;
+} 
+.registration-form {
+    border: 1px solid lightgrey;
+    padding: 40px;
+    width: 505px;
+    margin: 0 auto;
+    margin-top: 22px; 
+}
+
